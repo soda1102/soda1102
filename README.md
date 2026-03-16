@@ -1,3 +1,7 @@
+<p align = 'center'>
+  <img src = 'Github_title.png' width = '100%'>
+</p>
+
 ## Hi there 👋
 
 <!--
