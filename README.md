@@ -1,5 +1,5 @@
 <p align = 'center'>
-  <img src = 'github_title.png' width = '50%'>
+  <img src = 'github_title.png' width = '100%'>
 </p>
 
 ## Hi there 👋
