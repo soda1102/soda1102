@@ -10,12 +10,14 @@
 🚀 사용자에게 도움이 되는 서비스를 만드는 것이 목표입니다.
 
 
+
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 
 📚 Currently Learning
@@ -26,6 +28,7 @@
 - AI Basics
 - Html
 - Java script
+
 
 
 ## 🚀 Projects
